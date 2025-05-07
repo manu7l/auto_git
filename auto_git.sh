@@ -12,7 +12,7 @@ SCRIPT_NAME="$(basename "$SCRIPT_PATH")"
 PROJECT_NAME="${SCRIPT_NAME%.sh}"
 
 # Usuario de GitHub
-GITHUB_USER="Manu7l" 
+GITHUB_USER="USUARIO_GITHUB" 
 TOKEN="$GITHUB_TOKEN"
 
 # Validación del token
